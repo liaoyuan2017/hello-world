@@ -2,4 +2,4 @@
 我的第一个github
 
 
-my name is chan ,hello gays!
+my name is chan ,hello everyone!
