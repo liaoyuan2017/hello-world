@@ -3,4 +3,4 @@
 
 
 my name is chan ,hello everyone!
-and I'm come from china,thans
+and I'm come from china,thanks
