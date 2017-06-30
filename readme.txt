@@ -1,3 +1,1 @@
-git is a version control system:wq
-:wq
-
+git is a version control syste
